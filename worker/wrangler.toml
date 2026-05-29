@@ -1,0 +1,8 @@
+name = "bookstore-worker"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "bookstore-db"
+database_id = "a46025ac-ed26-4776-8e78-159fa74112ff"
